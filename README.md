@@ -29,7 +29,9 @@
 <br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=5CADC0&center=true&vCenter=true&width=600&lines=Dev+Full+Stack+C%23+%2F+.NET;Estudante+de+An%C3%A1lise+de+Sistemas;Apaixonado+por+Automa%C3%A7%C3%A3o;Bem-vindo+ao+meu+perfil!" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=5CADC0&center=true&vCenter=true&width=600&lines=Dev+Full+Stack+C%23+%2F+.NET;Estudante+de+An%C3%A1lise+de+Sistemas;Apaixonado+por+Automa%C3%A7%C3%A3o;Bem-vindo+ao+meu+perfil!" alt="Typing SVG" />
+  </a>
 </div>
 
 <br>
@@ -59,6 +61,9 @@
   
   <p>
      <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MateMateus&theme=nord_dark&utcOffset=-3" />
+  </p>
+  
+  <p>
      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MateMateus&theme=nord_dark" />
   </p>
 
@@ -69,7 +74,7 @@
 
 <div align="center">
   <h3>🚀 Stack Tecnológica</h3>
-  <img height="50" src="https://skillicons.dev/icons?i=cs,dotnet,html,css,js,mysql,git,github,vscode,figma,python&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,html,css,js,mysql,git,github,vscode,figma,python&theme=dark" />
 </div>
 
 <br>
@@ -90,9 +95,11 @@
 <div align="center">
   <samp>
     🔭 <b>Trabalhando em:</b> Automação com n8n
-    <br><br>
+    <br>
+    <br>
     📚 <b>Estudando:</b> Arquitetura & UI/UX
-    <br><br>
+    <br>
+    <br>
     ⚡ <b>Projetos:</b> Alpha Essence & xFood
   </samp>
 </div>
