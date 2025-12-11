@@ -39,9 +39,6 @@ Atualmente, estou focado no ecossistema **Microsoft (.NET/C#)** e cursando Desen
     </td>
     <td width="50%">
       <h3 align="center">🛒 E-commerce "Alpha Essence"</h3>
-       <div align="center">
-        <img src="https://via.placeholder.com/500x300/A949F5/ffffff?text=Print+do+Ecommerce+Alpha" width="100%" alt="Alpha Essence Project">
-      </div>
       <p align="center">
         Sistema completo de suplementação. Front-end moderno e Back-end robusto com API .NET e SQL Server. Hospedado na Netlify/Render.
       </p>
@@ -55,9 +52,6 @@ Atualmente, estou focado no ecossistema **Microsoft (.NET/C#)** e cursando Desen
   <tr>
      <td width="50%">
       <h3 align="center">🤖 Automação com n8n</h3>
-       <div align="center">
-        <img src="https://via.placeholder.com/500x300/FF6B6B/ffffff?text=Sistema+de+Pedidos+n8n" width="100%" alt="n8n Project">
-      </div>
       <p align="center">
         (Em desenvolvimento) Sistema inteligente de pedidos para comerciantes usando fluxos de automação low-code com n8n.
       </p>
