@@ -29,9 +29,6 @@ Atualmente, estou focado no ecossistema **Microsoft (.NET/C#)** e cursando Desen
   <tr>
     <td width="50%">
       <h3 align="center">🖥️ Servidor FiveM & xFood</h3>
-      <div align="center">
-        <img src="https://via.placeholder.com/500x300/4a148c/ffffff?text=Print+do+Servidor+FiveM" width="100%" alt="FiveM Project">
-      </div>
       <p align="center">
         Desenvolvimento de scripts complexos em Lua, integração com banco de dados MySQL, configuração de VPN e gestão de comunidade.
       </p>
