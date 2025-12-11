@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=A949F5&center=true&vCenter=true&width=600&lines=Ola,+sou+Mateus+Braga!;Dev+Full+Stack+C%23+%2F+.NET;Criando+Solucoes+Digitais" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=A949F5&center=true&vCenter=true&width=600&lines=Ola,+sou+Mateus+Braga!;Dev+Full+Stack+C%23+%2F+.NET;Apaixonado+por+Tecnologia" alt="Typing SVG" />
   </a>
 </div>
 
@@ -17,25 +17,13 @@
 
 ### 👾 Sobre mim
 
-Minha jornada na tecnologia começou cedo, aos **10 anos**, desmontando e montando computadores. O que era curiosidade virou profissão.
+Comecei minha jornada aos **10 anos** desmontando computadores e, aos 13, já administrava meu próprio servidor de **FiveM** (criando scripts e gerenciando banco de dados).
 
-Hoje, curso **Desenvolvimento de Sistemas no Senac** e foco meus estudos no ecossistema Microsoft (.NET), criando aplicações web modernas e automações que resolvem problemas reais.
+Atualmente curso **Desenvolvimento de Sistemas no Senac**, focado no ecossistema Microsoft.
 
----
-
-### 🛠️ Projetos em Destaque
-
-**🙏 Portal Santos Católicos**
-> Desenvolvimento de um site informativo focado em experiência do usuário (UX) e design responsivo.
-> * *Techs:* HTML5, CSS3, JavaScript.
-
-**🛒 Alpha Essence (E-commerce)**
-> Plataforma completa de suplementação com integração de API e banco de dados.
-> * *Techs:* C#, .NET API, SQL Server.
-
-**🤖 Sistema de Pedidos Inteligente**
-> Automação para comerciantes receberem e gerenciarem pedidos automaticamente.
-> * *Techs:* n8n (Low-code), Integrações Web.
+- 🔭 **Trabalhando em:** Sistema de pedidos automatizado com **n8n**.
+- 📚 **Estudando:** Arquitetura de Software e UI/UX.
+- ⚡ **Experiência:** Criei o e-commerce "Alpha Essence" e o servidor xFood.
 
 ---
 
