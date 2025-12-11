@@ -12,7 +12,8 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
-
+<br>
+  ![github-contribution-grid-snake](https://user-images.githubusercontent.com/127353307/223878413-7bc60a8c-b971-43b9-af84-43aeee49f0eb.svg)
 <br>
 
 ### 👾 Sobre mim
