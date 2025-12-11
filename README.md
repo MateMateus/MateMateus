@@ -74,7 +74,11 @@
 
 <div align="center">
   <h3>🚀 Stack Tecnológica</h3>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,html,css,js,mysql,git,github,vscode,figma,python&theme=dark" />
+</div>
+
+<div align="center">
+  ![Stack](https://skillicons.dev/icons?i=cs,dotnet,html,css,js,mysql,git,github,vscode,figma,python&theme=dark)
+  
 </div>
 
 <br>
@@ -93,15 +97,21 @@
 <br>
 
 <div align="center">
-  <samp>
-    🔭 <b>Trabalhando em:</b> Automação com n8n
-    <br>
-    <br>
-    📚 <b>Estudando:</b> Arquitetura & UI/UX
-    <br>
-    <br>
-    ⚡ <b>Projetos:</b> Alpha Essence & xFood
-  </samp>
+  <p>
+    <samp>
+      🔭 <b>Trabalhando em:</b> Automação com n8n
+    </samp>
+  </p>
+  <p>
+    <samp>
+      📚 <b>Estudando:</b> Arquitetura & UI/UX
+    </samp>
+  </p>
+  <p>
+    <samp>
+      ⚡ <b>Projetos:</b> Alpha Essence & xFood
+    </samp>
+  </p>
 </div>
 
 <br>
