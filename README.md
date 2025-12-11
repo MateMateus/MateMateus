@@ -65,4 +65,46 @@
   </p>
 
   <p>
-    <img src="
+    <img src="https://github-readme-stats.vercel.app/api?username=MateMateus&show_icons=true&theme=dracula&title_color=5cadc0&icon_color=5cadc0&hide_border=true" />
+  </p>
+
+</div>
+</details>
+
+<br>
+
+<div align="center">
+  <h3>🚀 Stack Tecnológica</h3>
+  <img height="60" src="https://skillicons.dev/icons?i=cs,dotnet,html,css,js,mysql,git,github,vscode,figma,python&theme=dark" />
+</div>
+
+<br>
+
+##
+
+<br>
+
+<div align="center">
+
+  [![Gmail](https://img.shields.io/badge/Gmail-2e3440?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:mateusbragasan@gmail.com)
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-2e3440?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/mateus-de-santana-braga-4841b6399/)
+  
+</div>
+
+<br>
+
+<div align="center">
+  <samp>
+    <ul style="list-style-type: none; padding: 0;">
+      <li>🔭 <b>Trabalhando em:</b> Automação com n8n</li>
+      <li><br></li>
+      <li>📚 <b>Estudando:</b> Arquitetura & UI/UX</li>
+      <li><br></li>
+      <li>⚡ <b>Projetos:</b> Alpha Essence & xFood</li>
+    </ul>
+  </samp>
+</div>
+
+<br>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5cadc0&height=100&section=footer"/>
