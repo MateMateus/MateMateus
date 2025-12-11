@@ -3,7 +3,7 @@
 <div align="center">
   <samp>
     <b>
-      フルスタック開発者 (Full Stack Developer)
+      フルスタック開発者 (Desenvolvedor Full Stack)
       <br>
       Olá, eu sou o Mateus Braga!
       <br>
@@ -13,7 +13,7 @@
 
 <div align="center">
   <p align="center">
-    <img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FMateMateus&s=21&c=5cadc0&bg=00000000&no=2&ff=digi&tb=Profile+Visits%3A++&ta=" />
+    <img src="https://komarev.com/ghpvc/?username=MateMateus&label=Visitas&color=5cadc0&style=flat-square" alt="Contador de Visitas" />
   </p>
 </div>
 
@@ -29,7 +29,7 @@
 </div>
 
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=5cadc0&width=900&size=21&center=true&lines=Dev+Full+Stack+C%23+%2F+.NET;Student+of+Analysis+and+Systems+Development;Passionate+about+Technology+and+Automation;Welcome+to+my+profile!" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=5cadc0&width=900&size=21&center=true&lines=Dev+Full+Stack+C%23+%2F+.NET;Estudante+de+Análise+e+Desenvolvimento+de+Sistemas;Apaixonado+por+Tecnologia+e+Automação;Bem-vindo+ao+meu+perfil!" alt="Typing SVG"/>
 </div>
 
 <br>
@@ -46,7 +46,7 @@
 <details align="center">
     <summary>
       <samp>
-        <b>More Info & Stats</b>
+        <b>Mais Informações e Estatísticas</b>
       </samp>
     </summary>
     <br>
@@ -61,7 +61,7 @@
 </div>
 
 <div align="center">
-  <h3>🚀 Tech Stack</h3>
+  <h3>🚀 Stack Tecnológica</h3>
 </div>
 
 <div align="center" style="display: inline_block"><br>
