@@ -37,14 +37,6 @@ Atualmente curso **Desenvolvimento de Sistemas no Senac**, focado no ecossistema
 
 ---
 
-### 📊 Minhas Estatísticas
-
-### 📊 Minhas Estatísticas
-
-![Snake animation](https://github.com/MateMateus/MateMateus/blob/output/github-contribution-grid-snake.svg)
-
-![Mateus GitHub Stats](https://github-readme-stats.vercel.app/api?username=MateMateus&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
-![Mateus Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MateMateus&layout=compact&theme=dracula)
 
 <div align="center">
   <br>
