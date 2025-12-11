@@ -18,7 +18,6 @@
 </div>
 
 <br>
-<br>
 
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200">
@@ -28,8 +27,12 @@
   <img src="https://img.shields.io/badge/C%23_Dev-MJ-black" />
 </div>
 
+<br>
+
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=5cadc0&width=900&size=21&center=true&lines=Dev+Full+Stack+C%23+%2F+.NET;Estudante+de+Análise+e+Desenvolvimento+de+Sistemas;Apaixonado+por+Tecnologia+e+Automação;Bem-vindo+ao+meu+perfil!" alt="Typing SVG"/>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Iosevka&color=5cadc0&size=22&center=true&vCenter=true&width=600&lines=Dev+Full+Stack+C%23+%2F+.NET;Estudante+de+An%C3%A1lise+e+Desenvolvimento;Apaixonado+por+Automatiza%C3%A7%C3%A3o;Bem-vindo+ao+meu+perfil!" alt="Typing SVG" />
+  </a>
 </div>
 
 <br>
@@ -55,7 +58,7 @@
   | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MateMateus&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MateMateus&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MateMateus&theme=nord_dark&utcOffset=-3) |
 | :-: | :-: | :-: |
 
-  | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MateMateus&theme=nord_dark) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MateMateus&theme=nord)](https://git.io/streak-stats) |
+  | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MateMateus&theme=nord_dark) | <img src="https://github-readme-streak-stats.herokuapp.com/?user=MateMateus&theme=nord_dark&hide_border=true" alt="GitHub Streak" /> |
 | :-: | :-: |
   
 </div>
@@ -65,7 +68,7 @@
 </div>
 
 <div align="center" style="display: inline_block"><br>
-  <img width="45" src="https://skillicons.dev/icons?i=cs,dotnet,html,css,js,mysql,git,github,vscode,figma,python&theme=dark" />
+  <img width="55" src="https://skillicons.dev/icons?i=cs,dotnet,html,css,js,mysql,git,github,vscode,figma,python&theme=dark" />
 </div>
 
 <br>
@@ -81,13 +84,15 @@
   
 </div>
 
+<br>
+
 <div align="center">
-<p align="center">
-      <samp>
-        🔭 <b>Trabalhando em:</b> Automação com n8n ⊹
-        📚 <b>Estudando:</b> Arquitetura & UI/UX ⊹
-        ⚡ <b>Projetos:</b> Alpha Essence & xFood
-      </samp>
+  <p>
+    <samp>
+      🔭 <b>Trabalhando em:</b> Automação com n8n<br>
+      📚 <b>Estudando:</b> Arquitetura & UI/UX<br>
+      ⚡ <b>Projetos:</b> Alpha Essence & xFood
+    </samp>
   </p>
 </div>
 
