@@ -12,9 +12,8 @@
 </div>
 
 <div align="center">
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=MateMateus&label=Visitas&color=5cadc0&style=flat-square" alt="Contador de Visitas" />
-  </p>
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=MateMateus&label=Visitas&color=5cadc0&style=flat-square" alt="Contador de Visitas" />
 </div>
 
 <br>
@@ -30,9 +29,7 @@
 <br>
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=5CADC0&center=true&vCenter=true&width=600&lines=Dev+Full+Stack+C%23+%2F+.NET;Estudante+de+An%C3%A1lise+de+Sistemas;Apaixonado+por+Automa%C3%A7%C3%A3o;Bem-vindo+ao+meu+perfil!" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=5CADC0&center=true&vCenter=true&width=600&lines=Dev+Full+Stack+C%23+%2F+.NET;Estudante+de+An%C3%A1lise+de+Sistemas;Apaixonado+por+Automa%C3%A7%C3%A3o;Bem-vindo+ao+meu+perfil!" alt="Typing SVG" />
 </div>
 
 <br>
@@ -62,10 +59,7 @@
   
   <p>
      <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MateMateus&theme=nord_dark&utcOffset=-3" />
-  </p>
-
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=MateMateus&show_icons=true&theme=dracula&title_color=5cadc0&icon_color=5cadc0&hide_border=true" />
+     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MateMateus&theme=nord_dark" />
   </p>
 
 </div>
@@ -75,36 +69,11 @@
 
 <div align="center">
   <h3>🚀 Stack Tecnológica</h3>
-  <img height="60" src="https://skillicons.dev/icons?i=cs,dotnet,html,css,js,mysql,git,github,vscode,figma,python&theme=dark" />
+  <img height="50" src="https://skillicons.dev/icons?i=cs,dotnet,html,css,js,mysql,git,github,vscode,figma,python&theme=dark" />
 </div>
 
 <br>
 
 ##
 
-<br>
-
-<div align="center">
-
-  [![Gmail](https://img.shields.io/badge/Gmail-2e3440?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:mateusbragasan@gmail.com)
-  [![Linkedin](https://img.shields.io/badge/LinkedIn-2e3440?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/mateus-de-santana-braga-4841b6399/)
-  
-</div>
-
-<br>
-
-<div align="center">
-  <samp>
-    <ul style="list-style-type: none; padding: 0;">
-      <li>🔭 <b>Trabalhando em:</b> Automação com n8n</li>
-      <li><br></li>
-      <li>📚 <b>Estudando:</b> Arquitetura & UI/UX</li>
-      <li><br></li>
-      <li>⚡ <b>Projetos:</b> Alpha Essence & xFood</li>
-    </ul>
-  </samp>
-</div>
-
-<br>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5cadc0&height=100&section=footer"/>
+<br
