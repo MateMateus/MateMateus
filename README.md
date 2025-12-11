@@ -76,4 +76,28 @@
 
 ##
 
-<br
+<br>
+
+<div align="center">
+
+  [![Gmail](https://img.shields.io/badge/Gmail-2e3440?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:mateusbragasan@gmail.com)
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-2e3440?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/mateus-de-santana-braga-4841b6399/)
+  
+</div>
+
+<br>
+
+<div align="center">
+  <samp>
+    🔭 <b>Trabalhando em:</b> Automação com n8n
+    <br><br>
+    📚 <b>Estudando:</b> Arquitetura & UI/UX
+    <br><br>
+    ⚡ <b>Projetos:</b> Alpha Essence & xFood
+  </samp>
+</div>
+
+<br>
+<br>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5cadc0&height=100&section=footer"/>
