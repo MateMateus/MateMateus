@@ -39,18 +39,12 @@ Atualmente curso **Desenvolvimento de Sistemas no Senac**, focado no ecossistema
 
 ### 📊 Minhas Estatísticas
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MateMateus/MateMateus/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MateMateus/MateMateus/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MateMateus/MateMateus/output/github-contribution-grid-snake.svg">
-  </picture>
-  
-  <br><br>
+### 📊 Minhas Estatísticas
 
-  <img src="https://github-readme-stats.vercel.app/api?username=MateMateus&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateMateus&layout=compact&theme=dracula&hide_border=true&langs_count=6" height="180px"/>
-</div>
+![Snake animation](https://github.com/MateMateus/MateMateus/blob/output/github-contribution-grid-snake.svg)
+
+![Mateus GitHub Stats](https://github-readme-stats.vercel.app/api?username=MateMateus&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
+![Mateus Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MateMateus&layout=compact&theme=dracula)
 
 <div align="center">
   <br>
