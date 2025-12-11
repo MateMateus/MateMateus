@@ -1,14 +1,41 @@
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=A949F5&center=true&vCenter=true&width=600&lines=Ola,+sou+Mateus+Braga!;Dev+Full+Stack+C%23+%2F+.NET;Criando+Solucoes+Digitais" alt="Typing SVG" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/mateus-de-santana-braga-4841b6399/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:mateusbragasan@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
+
 <br>
 
 ### 👾 Sobre mim
 
-Comecei minha jornada aos **10 anos** desmontando computadores e, aos 13, já administrava meu próprio servidor de **FiveM** (criando scripts e gerenciando banco de dados).
+Minha jornada na tecnologia começou cedo, aos **10 anos**, desmontando e montando computadores. O que era curiosidade virou profissão.
 
-Atualmente curso **Desenvolvimento de Sistemas no Senac**, focado no ecossistema Microsoft.
+Hoje, curso **Desenvolvimento de Sistemas no Senac** e foco meus estudos no ecossistema Microsoft (.NET), criando aplicações web modernas e automações que resolvem problemas reais.
 
-- 🔭 **Trabalhando em:** Sistema de pedidos automatizado com **n8n**.
-- 📚 **Estudando:** Arquitetura de Software e UI/UX.
-- ⚡ **Experiência:** Criei o e-commerce "Alpha Essence" e o servidor xFood.
+---
+
+### 🛠️ Projetos em Destaque
+
+**🙏 Portal Santos Católicos**
+> Desenvolvimento de um site informativo focado em experiência do usuário (UX) e design responsivo.
+> * *Techs:* HTML5, CSS3, JavaScript.
+
+**🛒 Alpha Essence (E-commerce)**
+> Plataforma completa de suplementação com integração de API e banco de dados.
+> * *Techs:* C#, .NET API, SQL Server.
+
+**🤖 Sistema de Pedidos Inteligente**
+> Automação para comerciantes receberem e gerenciarem pedidos automaticamente.
+> * *Techs:* n8n (Low-code), Integrações Web.
 
 ---
 
