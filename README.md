@@ -45,39 +45,6 @@
 
 <br>
 
-<details align="center">
-    <summary>
-      <samp>
-        <b>📊 Mais Informações e Estatísticas</b>
-      </samp>
-    </summary>
-    <br>
-<div align="center">
-
-  <p>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MateMateus&theme=nord_dark" />
-        <br>
-    <div style="display: inline-block; margin-top: 10px; margin-bottom: 10px;">
-        <samp><b>Linguagens em Foco:</b></samp><br><br>
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-    </div>
-  </p>
-  
-  <p>
-     <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MateMateus&theme=nord_dark&utcOffset=-3" />
-  </p>
-  
-  <p>
-     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MateMateus&theme=nord_dark" />
-  </p>
-
-</div>
-</details>
-
-<br>
-
 <div align="center">
   <h3>🚀 Stack Tecnológica</h3>
   <img src="https://skillicons.dev/icons?i=cs,dotnet,html,css,js,mysql,git,github,vscode,figma,python&theme=dark" />
