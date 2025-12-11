@@ -29,9 +29,9 @@
 
 <br>
 
-<div align="center" width="100%">
+<div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Iosevka&color=5cadc0&size=22&center=true&vCenter=true&width=600&lines=Dev+Full+Stack+C%23+%2F+.NET;Estudante+de+An%C3%A1lise+e+Desenvolvimento;Apaixonado+por+Automatiza%C3%A7%C3%A3o;Bem-vindo+ao+meu+perfil!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=5CADC0&center=true&vCenter=true&width=600&lines=Dev+Full+Stack+C%23+%2F+.NET;Estudante+de+An%C3%A1lise+de+Sistemas;Apaixonado+por+Automa%C3%A7%C3%A3o;Bem-vindo+ao+meu+perfil!" alt="Typing SVG" />
   </a>
 </div>
 
@@ -49,58 +49,20 @@
 <details align="center">
     <summary>
       <samp>
-        <b>Mais Informações e Estatísticas</b>
+        <b>📊 Mais Informações e Estatísticas</b>
       </samp>
     </summary>
     <br>
 <div align="center">
 
-  | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MateMateus&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MateMateus&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MateMateus&theme=nord_dark&utcOffset=-3) |
-| :-: | :-: | :-: |
-
-  | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MateMateus&theme=nord_dark) | <img src="https://github-readme-streak-stats.herokuapp.com/?user=MateMateus&theme=nord_dark&hide_border=true" alt="GitHub Streak" /> |
-| :-: | :-: |
-  
-</div>
-
-<div align="center">
-  <h3>🚀 Stack Tecnológica</h3>
-</div>
-
-<div align="center" style="display: inline_block"><br>
-  <img width="55" src="https://skillicons.dev/icons?i=cs,dotnet,html,css,js,mysql,git,github,vscode,figma,python&theme=dark" />
-</div>
-
-<br>
-
-##
-
-<br>
-
-<div align="center">
-
-  [![Gmail](https://img.shields.io/badge/Gmail-2e3440?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:mateusbragasan@gmail.com)
-  [![Linkedin](https://img.shields.io/badge/LinkedIn-2e3440?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/mateus-de-santana-braga-4841b6399/)
-  
-</div>
-
-<br>
-
-<div align="center">
   <p>
-    <samp>
-      🔭 <b>Trabalhando em:</b> Automação com n8n<br>
-      📚 <b>Estudando:</b> Arquitetura & UI/UX<br>
-      ⚡ <b>Projetos:</b> Alpha Essence & xFood
-    </samp>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MateMateus&theme=nord_dark" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MateMateus&theme=nord_dark" />
   </p>
-</div>
+  
+  <p>
+     <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MateMateus&theme=nord_dark&utcOffset=-3" />
+  </p>
 
-##
-
-</details>
-
-<br>
-<br>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5cadc0&height=100&section=footer"/>
+  <p>
+    <img src="
