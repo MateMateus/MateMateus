@@ -65,7 +65,7 @@ Atualmente, estou focado no ecossistema **Microsoft (.NET/C#)** e cursando Desen
         <br>
         <div align="center">
             <a href="https://skillicons.dev">
-                <img src="https://skillicons.dev/icons?i=cs,dotnet,html,css,js,mysql,sqlserver,git,github,vscode,figma,python,lua&theme=dark&perline=6" />
+                <img src="https://skillicons.dev/icons?i=cs,dotnet,html,css,js,mysql,sqlserver,git,github,vscode,figma,python&theme=dark&perline=6" />
             </a>
         </div>
     </td>
